@@ -20,6 +20,9 @@
 <img src="https://media.giphy.com/media/D0nPezi9VuAzfuMEhR/giphy.gif">
  </p>
  
+ # Eager vs Lazy filters 
+`Lazy` (tembel) filter’lar filtreleme , transformasyon ve gruplama gibi işlemleri terminal tipinde bir operasyon çağrıldığında yapar.  `count()`, `toList()` ve `toSet()` Terminal tipinde operasyonlardan bazılarına örnektir. Bunlara `Sequences` denir. Öte yandan `Eager` filter’lara bakacak olursak operasyonun her adımında sonucu döndürdüğünü yani istekli bir tutum sergilediğini ifade etmek mümkündür. `Lazy` ve `Eager` arasındaki en temeldeki fark performanstır. `Lazy` , `Eager`’a göre yukarıda da açıklandığı üzere tembel bir şekilde operasyonları gerçekleştirdiği için performans olarak daha verimlidir.
+ 
  
  
  
