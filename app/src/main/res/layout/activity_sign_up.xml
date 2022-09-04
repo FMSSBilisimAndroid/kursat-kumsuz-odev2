@@ -38,7 +38,6 @@
             app:srcCompat="@drawable/ic_back"
             app:tint="@null" />
 
-
         <TextView
             android:id="@+id/textView3"
             android:layout_width="wrap_content"
@@ -118,7 +117,6 @@
             android:layout_marginTop="57dp"
             android:text="@string/create_password"
             android:textColor="#6B6B6B"
-
             android:textSize="26sp"
             app:layout_constraintBottom_toTopOf="@+id/passwordText"
             app:layout_constraintStart_toStartOf="parent"

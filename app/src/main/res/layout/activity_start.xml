@@ -41,7 +41,6 @@
             app:layout_constraintTop_toTopOf="parent"
             app:shapeAppearanceOverlay="@style/ShapeAppearance.Image.Circle" />
 
-
         <com.google.android.material.imageview.ShapeableImageView
             android:layout_width="103dp"
             android:layout_height="103dp"
@@ -100,8 +99,6 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:shapeAppearanceOverlay="@style/buttonShape" />
-
-
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 </layout>
