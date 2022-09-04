@@ -14,7 +14,7 @@
 <img src="https://media.giphy.com/media/sIL680Vo3IeKrtSsdF/giphy.gif">
  </p>
  
- ## 📸 Sign In Activity
+ ## 📸 Login Activity
  EditText'lerin boş olup olmadığı kontrol edilerek boş ise hata mesajı verilir. Girilen bilgiler database ile eşleşmezse Toast mesajı gösterilerek girilen bilgilerde hata olduğu ifade edilir. Eğer girilen bilgiler database ile eşleşirse girişin başarılı olduğuna dair DialogFragment gösterilir.
 <p align="center">
 <img src="https://media.giphy.com/media/D0nPezi9VuAzfuMEhR/giphy.gif">
